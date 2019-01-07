@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>angular-camel-test</name>
 	<description>Demo project for Spring Boot</description>
-<!-- test -->
+<!-- test scarlet -->
 	<properties>
 		<java.version>1.8</java.version>
 		<camel.version>2.19.1</camel.version>
